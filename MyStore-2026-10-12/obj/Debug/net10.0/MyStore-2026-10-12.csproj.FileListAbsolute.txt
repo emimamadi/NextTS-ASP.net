@@ -1,0 +1,69 @@
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\appsettings.Development.json
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\appsettings.json
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.staticwebassets.endpoints.json
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.exe
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.deps.json
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.runtimeconfig.json
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.dll
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.pdb
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\Microsoft.OpenApi.dll
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.csproj.AssemblyReference.cache
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\rpswa.dswa.cache.json
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.GeneratedMSBuildEditorConfig.editorconfig
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.AssemblyInfoInputs.cache
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.AssemblyInfo.cs
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.csproj.CoreCompileInputs.cache
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.MvcApplicationPartsAssemblyInfo.cs
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.MvcApplicationPartsAssemblyInfo.cache
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\rjimswa.dswa.cache.json
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\scopedcss\bundle\MyStore-2026-10-12.styles.css
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.build.json
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.build.json.cache
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.development.json
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\swae.build.ex.cache
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-.B0C7C449.Up2Date
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.dll
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\refint\MyStore-2026-10-12.dll
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.pdb
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.genruntimeconfig.cache
+I:\asp\MyStore-2026-10-12\obj\Debug\net10.0\ref\MyStore-2026-10-12.dll
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\frontend\package.json
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\frontend\tsconfig.json
+I:\asp\MyStore-2026-10-12\bin\Debug\net10.0\frontend\package-lock.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\appsettings.Development.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\appsettings.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.staticwebassets.endpoints.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.exe
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.deps.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.runtimeconfig.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.dll
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\MyStore-2026-10-12.pdb
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\bin\Debug\net10.0\Microsoft.OpenApi.dll
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.csproj.AssemblyReference.cache
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\rpswa.dswa.cache.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.GeneratedMSBuildEditorConfig.editorconfig
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.AssemblyInfoInputs.cache
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.AssemblyInfo.cs
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.csproj.CoreCompileInputs.cache
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.MvcApplicationPartsAssemblyInfo.cs
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.MvcApplicationPartsAssemblyInfo.cache
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\rjimswa.dswa.cache.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\scopedcss\bundle\MyStore-2026-10-12.styles.css
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.build.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.build.json.cache
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.development.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\swae.build.ex.cache
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-.B0C7C449.Up2Date
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.dll
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\refint\MyStore-2026-10-12.dll
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.pdb
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.genruntimeconfig.cache
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\ref\MyStore-2026-10-12.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YGhu7LS1Mao=",
+  "success": true,
+  "projectFilePath": "I:\\asp\\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\\MyStore-2026-10-12\\MyStore-2026-10-12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Si Raush\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\Si Raush\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
