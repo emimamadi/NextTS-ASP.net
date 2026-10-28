@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const footerGroups = [
   {
     title: "Customer service",
@@ -76,9 +78,18 @@ export default function Footer() {
               <ul className="mt-4 space-y-2 text-sm text-slate-600">
                 {group.links.map((link) => (
                   <li key={link}>
-                    <a href="#" className="transition hover:text-orange-600">
-                      {link}
-                    </a>
+                    {link === "Login" ? (
+                      <Link
+                        href="/login"
+                        className="transition hover:text-orange-600"
+                      >
+                        {link}
+                      </Link>
+                    ) : (
+                      <a href="#" className="transition hover:text-orange-600">
+                        {link}
+                      </a>
+                    )}
                   </li>
                 ))}
               </ul>

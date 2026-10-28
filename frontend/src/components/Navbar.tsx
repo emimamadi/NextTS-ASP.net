@@ -51,9 +51,12 @@ export default function Navbar() {
           </div>
 
           <div className="ml-auto flex items-center gap-2 sm:gap-3">
-            <button className="hidden rounded-full border border-orange-200 bg-orange-50 px-4 py-2 text-sm font-semibold text-orange-600 sm:inline-flex">
-              Login / Register
-            </button>
+            <Link
+              href="/login"
+              className="hidden rounded-full border border-orange-200 bg-orange-50 px-4 py-2 text-sm font-semibold text-orange-600 transition hover:bg-orange-100 sm:inline-flex"
+            >
+              Login
+            </Link>
 
             <button
               aria-label="Cart"
