@@ -9,17 +9,8 @@ export const metadata: Metadata = {
 
 export default function LoginPage() {
   return (
-    <main className="relative overflow-hidden bg-[#f7f5f2] px-4 py-10 sm:px-6 sm:py-14">
-      <div
-        aria-hidden="true"
-        className="pointer-events-none absolute -left-40 top-12 h-80 w-80 rounded-full bg-orange-200/30 blur-3xl"
-      />
-      <div
-        aria-hidden="true"
-        className="pointer-events-none absolute -bottom-40 right-0 h-96 w-96 rounded-full bg-amber-100/70 blur-3xl"
-      />
-
-      <div className="relative mx-auto max-w-5xl">
+    <main className="bg-[#f7f5f2] px-4 py-10 sm:px-6 sm:py-14">
+      <div className="mx-auto max-w-5xl">
         <div className="mb-6 flex items-center justify-between gap-4">
           <Link href="/" className="flex items-center gap-3">
             <span className="flex h-11 w-11 items-center justify-center rounded-2xl bg-orange-500 text-lg font-black text-white shadow-lg shadow-orange-500/20">
@@ -42,22 +33,9 @@ export default function LoginPage() {
           </Link>
         </div>
 
-        <div className="grid overflow-hidden rounded-[30px] bg-white shadow-[0_30px_90px_-40px_rgba(15,23,42,0.28)] ring-1 ring-slate-200/80 lg:min-h-[610px] lg:grid-cols-[1.05fr_0.95fr]">
-          <section className="relative flex min-h-[350px] flex-col justify-between overflow-hidden bg-[#20242c] p-7 text-white sm:p-10 lg:p-12">
-            <div
-              aria-hidden="true"
-              className="absolute -right-24 -top-32 h-96 w-96 rounded-full border border-white/10"
-            />
-            <div
-              aria-hidden="true"
-              className="absolute -right-12 -top-20 h-72 w-72 rounded-full border border-white/10"
-            />
-            <div
-              aria-hidden="true"
-              className="absolute -bottom-44 -left-28 h-96 w-96 rounded-full bg-orange-500/20 blur-3xl"
-            />
-
-            <div className="relative">
+        <div className="grid overflow-hidden rounded-[30px] bg-white shadow-[0_30px_90px_-40px_rgba(15,23,42,0.28)] ring-1 ring-slate-200/80 lg:min-h-152.5 lg:grid-cols-[1.05fr_0.95fr]">
+          <section className="flex min-h-87.5 flex-col justify-between overflow-hidden bg-[#20242c] p-7 text-white sm:p-10 lg:p-12">
+            <div>
               <span className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1.5 text-xs font-medium text-slate-300">
                 <span className="h-1.5 w-1.5 rounded-full bg-orange-400" />
                 A better way to shop
@@ -73,8 +51,8 @@ export default function LoginPage() {
               </p>
             </div>
 
-            <div className="relative mt-10 grid grid-cols-2 gap-3 sm:max-w-sm">
-              <div className="rounded-2xl border border-white/10 bg-white/[0.06] p-4 backdrop-blur">
+            <div className="mt-10 grid grid-cols-2 gap-3 sm:max-w-sm">
+              <div className="rounded-2xl border border-white/10 bg-white/6 p-4 backdrop-blur">
                 <span className="text-2xl" aria-hidden="true">
                   ✦
                 </span>
@@ -83,7 +61,7 @@ export default function LoginPage() {
                   Picked for your everyday
                 </p>
               </div>
-              <div className="rounded-2xl border border-white/10 bg-white/[0.06] p-4 backdrop-blur">
+              <div className="rounded-2xl border border-white/10 bg-white/6 p-4 backdrop-blur">
                 <span className="text-2xl" aria-hidden="true">
                   ↗
                 </span>

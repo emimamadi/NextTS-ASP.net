@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 
 type Product = {
   id: number;
@@ -43,7 +43,7 @@ export default function ProductsPage() {
 
   const apiUrl = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:5192";
 
-  const loadProducts = async () => {
+  const loadProducts = useCallback(async () => {
     setLoading(true);
     try {
       const response = await fetch(`${apiUrl}/products`, { cache: "no-store" });
@@ -53,16 +53,17 @@ export default function ProductsPage() {
 
       const data: Product[] = await response.json();
       setProducts(data);
+      setError(null);
     } catch (err) {
       setError(err instanceof Error ? err.message : "Unable to load products");
     } finally {
       setLoading(false);
     }
-  };
+  }, [apiUrl]);
 
   useEffect(() => {
-    loadProducts();
-  }, [apiUrl]);
+    void Promise.resolve().then(loadProducts);
+  }, [loadProducts]);
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = event.target;
@@ -141,7 +142,7 @@ export default function ProductsPage() {
 
   return (
     <main className="min-h-screen bg-[#f5f6f8] text-slate-900">
-      <div className="mx-auto max-w-[1400px] px-4 py-6">
+      <div className="mx-auto max-w-350 px-4 py-6">
         <header className="rounded-[28px] bg-white p-4 shadow-sm ring-1 ring-slate-200">
           <div className="flex flex-col gap-4 xl:flex-row xl:items-center xl:justify-between">
             <div className="flex items-center gap-3">
@@ -183,7 +184,7 @@ export default function ProductsPage() {
         </header>
 
         <section className="mt-6 grid gap-5 xl:grid-cols-[1.7fr_0.9fr]">
-          <div className="rounded-[28px] bg-gradient-to-r from-orange-500 via-orange-400 to-amber-300 p-6 text-white shadow-lg shadow-orange-200">
+          <div className="rounded-[28px] bg-linear-to-r from-orange-500 via-orange-400 to-amber-300 p-6 text-white shadow-lg shadow-orange-200">
             <div className="flex h-full flex-col justify-between gap-6">
               <div>
                 <p className="text-sm font-medium text-orange-100">
@@ -209,7 +210,7 @@ export default function ProductsPage() {
             {promoCards.map((card) => (
               <div
                 key={card.title}
-                className="rounded-[24px] bg-white p-5 shadow-sm ring-1 ring-slate-200"
+                className="rounded-3xl bg-white p-5 shadow-sm ring-1 ring-slate-200"
               >
                 <p className="text-xs uppercase tracking-[0.16em] text-slate-400">
                   Offer
@@ -322,7 +323,7 @@ export default function ProductsPage() {
           </aside>
 
           <div className="space-y-5">
-            <div className="flex items-center justify-between rounded-[24px] bg-white px-5 py-4 shadow-sm ring-1 ring-slate-200">
+            <div className="flex items-center justify-between rounded-3xl bg-white px-5 py-4 shadow-sm ring-1 ring-slate-200">
               <div>
                 <p className="text-sm uppercase tracking-[0.18em] text-slate-400">
                   Trending now
@@ -337,7 +338,7 @@ export default function ProductsPage() {
             </div>
 
             {loading ? (
-              <div className="rounded-[24px] bg-white p-10 text-center text-slate-600 shadow-sm ring-1 ring-slate-200">
+              <div className="rounded-3xl bg-white p-10 text-center text-slate-600 shadow-sm ring-1 ring-slate-200">
                 Loading products...
               </div>
             ) : (
@@ -356,7 +357,7 @@ export default function ProductsPage() {
                       </span>
                     </div>
 
-                    <div className="mt-4 h-40 rounded-[22px] bg-gradient-to-br from-slate-100 via-orange-50 to-amber-100" />
+                    <div className="mt-4 h-40 rounded-[22px] bg-linear-to-br from-slate-100 via-orange-50 to-amber-100" />
 
                     <div className="mt-4 flex items-center justify-between text-xs text-slate-500">
                       <span className="rounded-full bg-slate-100 px-2 py-1">

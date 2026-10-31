@@ -1,17 +1,6 @@
 import Link from "next/link";
 import WeatherBanner from "@/components/WeatherBanner";
 
-const categories = [
-  "Smartphones",
-  "Laptops",
-  "Audio",
-  "Wearables",
-  "Home",
-  "Gaming",
-  "Beauty",
-  "Sports",
-];
-
 const spotlightCards = [
   { title: "Supermarket deals", text: "From 1M Toman", color: "bg-orange-100" },
   { title: "Tech offers", text: "Up to 40% off", color: "bg-amber-100" },
