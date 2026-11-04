@@ -79,13 +79,13 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 border-b border-slate-200/80 bg-white/95 shadow-[0_8px_24px_-20px_rgba(15,23,42,0.35)] backdrop-blur-xl">
       <div className="bg-slate-950 text-white">
-        <p className="mx-auto max-w-[1400px] px-4 py-2 text-center text-xs font-medium tracking-wide sm:text-sm">
+        <p className="mx-auto max-w-350 px-4 py-2 text-center text-xs font-medium tracking-wide sm:text-sm">
           Great finds, fair prices <span className="px-1 text-orange-400">•</span>
           Free delivery on orders over $75
         </p>
       </div>
 
-      <div className="mx-auto max-w-[1400px] px-4">
+      <div className="mx-auto max-w-350 px-4">
         <div className="flex flex-wrap items-center gap-x-5 gap-y-3 py-4 sm:py-5">
           <Link
             href="/"
@@ -107,7 +107,7 @@ export default function Navbar() {
 
           <form
             role="search"
-            className="order-last flex w-full items-center gap-3 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-slate-400 transition focus-within:border-orange-300 focus-within:bg-white focus-within:ring-4 focus-within:ring-orange-100 md:order-none md:ml-3 md:flex-1"
+            className="order-last flex w-full items-center gap-3 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-slate-400 transition focus-within:border-orange-300 focus-within:bg-white focus-within:ring-4 focus-within:ring-orange-100 md:order-0 md:ml-3 md:flex-1"
           >
             <SearchIcon />
             <input
@@ -178,7 +178,7 @@ export default function Navbar() {
 
           <nav
             aria-label="Product categories"
-            className="flex min-w-0 gap-1.5 overflow-x-auto py-0.5 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+            className="flex min-w-0 gap-1.5 overflow-x-auto py-0.5 scrollbar-none [&::-webkit-scrollbar]:hidden"
           >
             {categories.map((category) => (
               <button
