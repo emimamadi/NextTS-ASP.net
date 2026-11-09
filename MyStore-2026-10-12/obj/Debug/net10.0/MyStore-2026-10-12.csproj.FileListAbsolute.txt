@@ -67,3 +67,4 @@ I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-202
 I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.pdb
 I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.genruntimeconfig.cache
 I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\ref\MyStore-2026-10-12.dll
+I:\asp\MyStore + Asp.net + Next JS + Ecommerce like dgkala + Weather\MyStore-2026-10-12\obj\Debug\net10.0\MyStore-2026-10-12.sourcelink.json
